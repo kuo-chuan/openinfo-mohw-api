@@ -1,9 +1,6 @@
 # [醫院評鑑資訊專區API](https://openinfo.mohw.gov.tw/)
 
----
 API提供完整的醫院基本資料、健保業務資料與評鑑結果。
-
----
 
 ## 使用說明
 
@@ -47,6 +44,7 @@ python crawler/program/run.py --city 臺中市 --kind 醫學中心
 
 外島:
 `澎湖縣`, `金門縣`, `連江縣`
+
 --------
 #### 特約列表
 
